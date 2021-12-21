@@ -1,0 +1,29 @@
+{
+  "name": "check-calculate",
+  "version": "0.0.0",
+  "description": "Check multiple precision arithmetic result",
+  "author": "Shuntaro Nishizawa <me@shun.technology> (https://github.com/shun-shobon)",
+  "license": "MIT",
+  "packageManager": "yarn@3.1.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "format": "prettier --w --ignore-path .gitignore \"**/*.{js,jsx,ts,tsx}\""
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.7",
+    "typescript": "^4.5.4",
+    "vite": "^2.7.4",
+    "vite-plugin-html": "^2.1.1"
+  }
+}
