@@ -440,6 +440,7 @@ __metadata:
     typescript: ^4.5.4
     vite: ^2.7.4
     vite-plugin-html: ^2.1.1
+    vite-plugin-plain-text: ^1.1.4
   languageName: unknown
   linkType: soft
 
@@ -2304,6 +2305,13 @@ __metadata:
   peerDependencies:
     vite: ">=2.0.0"
   checksum: 0b0280c865e53f37a649d2edf156a3d046c8844c5469036b5c194e42530fe112f8dd8c0eba9ee08ad30b0a706af9e49e500dcf4f7c5386bdb62f91a8d12d8bc4
+  languageName: node
+  linkType: hard
+
+"vite-plugin-plain-text@npm:^1.1.4":
+  version: 1.1.4
+  resolution: "vite-plugin-plain-text@npm:1.1.4"
+  checksum: 62a1a4852423da18fe163c2b442966d4eb9535fa77de42e6456fa6db6731c2c876a83f0a1c2d677c45099add1ae90e1bceb42c87f11163b9ccea42ddfa179cd2
   languageName: node
   linkType: hard
 
