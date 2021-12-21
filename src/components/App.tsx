@@ -5,7 +5,7 @@ import Sqrt2 from "./Sqrt2";
 
 const App: VFC = () => {
   return (
-    <main className="container mx-auto py-8 flex flex-col gap-8">
+    <main className="container mx-auto px-4 py-8 flex flex-col gap-8">
       <h1 className="text-2xl">多倍長演算チェッカー</h1>
       <Pi />
       <Sqrt2 />
